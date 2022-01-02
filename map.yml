@@ -1,0 +1,4 @@
+map_name: NWO_Andrews
+games:
+- {game_name: NWO_Andrew's, file_name: NWO_Andrews.xml}
+version: 0
